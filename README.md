@@ -1,5 +1,5 @@
 # Identifying Statistical Bias in Dataset Replication
-Code for the paper "Identifying Statistical Bias in Dataset Replication." The original paper can be found on [here](http://gradientscience.org/data_rep_bias.pdf) ([Blog post](http://gradientscience.org/data_rep_bias/)) .
+Code for the paper "Identifying Statistical Bias in Dataset Replication." The original paper is [here](https://arxiv.org/abs/2005.09619) ([blog post](http://gradientscience.org/data_rep_bias/)) .
 
 ## Annotation Data
 Annotation data not included in the Git repository is necessary to run any
